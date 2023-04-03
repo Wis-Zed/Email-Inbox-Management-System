@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar  8 21:28:39 2023
-
-@author: wissamzendjebil
-"""
 
 class Email():
 
